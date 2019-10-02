@@ -23,7 +23,7 @@ Students in the Masters of Computational Social Science program are expected to 
     4. Optionally, an organization such as company, nonprofit, government agency you’d like to have present
 * Then, upvote (“thumbs up”) **at least 5** proposals from other people.
 
-Our next workshop will also be abnormal, on Thursday, October 10, but from 4-5:20pm, rather than the typical 11-12:20 slot, and with light dinner rather than lunch on the topic of “Big Data in Medicine” including renowned historian of medicine Jeremy Greene and a distinguished University of Chicago faculty panel. (We understand that some may not be able to attend from class conflict, but others are expected to attend).
+Our next workshop will also be abnormal, on Thursday, October 10, but from 4-5:20pm, rather than the typical 11-12:20 slot, and with light dinner rather than lunch on the topic of [“Big Data in Medicine”](https://github.com/uchicago-computation-workshop/BigDataMedicine/blob/master/README.md) including renowned historian of medicine [Jeremy Greene](https://www.hopkinshistoryofmedicine.org/content/jeremy-greene) and a distinguished University of Chicago faculty panel. (We understand that some may not be able to attend from class conflict, but others are expected to attend).
 
 Our regular workshop format will recommence the following week with our Faculty Director, [**James Evans**](https://macss.uchicago.edu/directory/james-evans), presenting a paper titled "Science and Technology Advance through Surprise.
 
