@@ -16,14 +16,16 @@ The [Computation Workshop](https://macss.uchicago.edu/content/computation-worksh
 Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href="https://github.com/uchicago-computation-workshop/README"> issues page </a> of the <a href="https://github.com/uchicago-computation-workshop"> workshop's public repository on GitHub.</a></p>
 
 **Before the Fall Welcome Mixer**, each of you will:
-* Think about whom you'd like to see at our workshop, and suggest: 
-    1. At least one possible speaker from UChicago, 
-    2. At least one possible speaker from *outside* UChicago,
-    3. Optionally, one or more organizations (company, nonprofit, or government agency) 
-* Upvote at least 5 other persons suggestions.
+* Think about whom and what you'd like to see at our workshop, and suggest (each proposal as a separate issue): 
+    1. At least one University of Chicago speaker you would like to hear from (e.g., Ali Hortaçu), 
+    2. At least one non-University of Chicago speaker you would like to hear from (e.g., Duncan Watts),
+    3. at leas one topic you would like to hear about (e.g., algorithms and discrimination)
+    4. Optionally, an organization such as company, nonprofit, government agency you’d like to have present
+* Then, upvote (“thumbs up”) **at least 5** proposals from other people.
 
+Our next workshop will also be abnormal, on Thursday, October 10, but from 4-5:20pm, rather than the typical 11-12:20 slot, and with light dinner rather than lunch on the topic of “Big Data in Medicine” including renowned historian of medicine Jeremy Greene and a distinguished University of Chicago faculty panel. (We understand that some may not be able to attend from class conflict, but others are expected to attend).
 
-Our regular workshop format will recommence next week with our Faculty Director, [**James Evans**](https://macss.uchicago.edu/directory/james-evans), presenting a paper titled "Science and Technology Advance through Surprise.
+Our regular workshop format will recommence the following week with our Faculty Director, [**James Evans**](https://macss.uchicago.edu/directory/james-evans), presenting a paper titled "Science and Technology Advance through Surprise.
 
 ---
 
