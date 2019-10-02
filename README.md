@@ -8,7 +8,7 @@ The [Computation Workshop](https://macss.uchicago.edu/content/computation-worksh
 
 ### Thursday, 10/03/2019 
 ### 11:00am-12:20pm 
-### Hinds Lab Geo Sci 101 
+### Hinds Laboratory 101 
 
 *A light lunch will be provided by Snail Thai Cusine.*
 
